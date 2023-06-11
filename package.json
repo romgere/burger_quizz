@@ -1,0 +1,22 @@
+{
+  "name": "burger_quizz",
+  "version": "1.0.0",
+  "description": "Compteur point pour jeu Burger quizz ",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romgere/burger_quizz.git"
+  },
+  "author": "jerome@mestres.fr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romgere/burger_quizz/issues"
+  },
+  "homepage": "https://github.com/romgere/burger_quizz#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
